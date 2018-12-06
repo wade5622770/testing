@@ -5,5 +5,5 @@ content = response.content
 print(content)
 print(type(content))
 f = open("logo.jpg","wb")
-f.write(content)
+ddddddddddddddddddddddf.write(content)
 f.close()
