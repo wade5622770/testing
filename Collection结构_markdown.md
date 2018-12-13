@@ -1,8 +1,4 @@
-#  结构说明
 
-## √ 学校
-
-[**CollectionName:SS_School**](#SS_School)
 
 ```javascript
 {
